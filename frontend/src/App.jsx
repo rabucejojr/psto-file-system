@@ -1,4 +1,4 @@
-import {FileViewer,DocumentForm} from './components'
+import {FileInput,DocumentForm} from './components'
 
 function App() {
 

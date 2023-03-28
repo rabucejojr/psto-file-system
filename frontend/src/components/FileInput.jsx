@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FileViewer = (props) => {
+const FileInput = (props) => {
   const handleChange = (event) => {
     const files = event.target.files
     // do something with the selected files
@@ -12,4 +12,4 @@ const FileViewer = (props) => {
   )
 }
 
-export default FileViewer
+export default FileInput
