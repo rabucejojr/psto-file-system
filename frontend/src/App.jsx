@@ -1,11 +1,10 @@
-import {FileInput,DocumentForm} from './components'
+
 
 function App() {
 
   return (
     <>
-    <DocumentForm/>
-    {/* <FileViewer/> */}
+    <h1>Main App</h1>
     </>
   )
 }
